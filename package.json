@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "full stack course",
+  "main": "index.js",
+  "scripts": {
+"start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyang545262477/git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuyang545262477/git-test/issues"
+  },
+  "homepage": "https://github.com/yuyang545262477/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
